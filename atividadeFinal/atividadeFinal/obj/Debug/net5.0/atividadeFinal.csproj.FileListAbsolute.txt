@@ -1,0 +1,16 @@
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.exe
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.deps.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.runtimeconfig.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.runtimeconfig.dev.json
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\ref\atividadeFinal.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\bin\Debug\net5.0\atividadeFinal.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.csproj.AssemblyReference.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.AssemblyInfoInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.AssemblyInfo.cs
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\ref\atividadeFinal.dll
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto bruna\bru\atividadeFinal\atividadeFinal\obj\Debug\net5.0\atividadeFinal.genruntimeconfig.cache
